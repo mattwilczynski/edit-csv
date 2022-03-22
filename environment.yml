@@ -1,0 +1,5 @@
+name: edit-csv
+channels:
+  - defaults
+dependencies:
+  - python==3.9
